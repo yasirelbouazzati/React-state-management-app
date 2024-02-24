@@ -11,4 +11,4 @@ State management demo for React components
 - official doc: [https://react.dev/reference/react/useState#usestate [ ↗ ] ](https://react.dev/reference/react/useState#usestate)
 
 Url : 
-- reactstatemanagement-app-yasir-daw.netlify.app
+- https://reactstatemanagement-app-yasir-daw.netlify.app
